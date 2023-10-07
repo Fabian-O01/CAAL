@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "ace-update" ]
+    branches: [ "spectroscopy" ]
   pull_request:
-    branches: [ "ace-update" ]
+    branches: [ "spectroscopy" ]
 
 jobs:
   build:
